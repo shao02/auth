@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11318451630",
+    "firebase_url": "https://sample-auth-47836.firebaseio.com",
+    "project_id": "sample-auth-47836",
+    "storage_bucket": "sample-auth-47836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11318451630:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11318451630-g0olccha43o6311dui7p2oj88mss88kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxF3u2oM0NNl9Fehy2gzPf051NgF6XAD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
