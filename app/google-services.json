@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "11318451630",
-    "firebase_url": "https://sample-auth-47836.firebaseio.com",
-    "project_id": "sample-auth-47836",
-    "storage_bucket": "sample-auth-47836.appspot.com"
+    "project_number": "115119602969",
+    "firebase_url": "https://eventlife-9ad36.firebaseio.com",
+    "project_id": "eventlife-9ad36",
+    "storage_bucket": "eventlife-9ad36.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:11318451630:android:87fcb66cc6ca320a",
+        "mobilesdk_app_id": "1:115119602969:android:87fcb66cc6ca320a",
         "android_client_info": {
-          "package_name": "com.google.firebase.quickstart.auth"
+          "package_name": "com.life.event.www.eventlife"
         }
       },
       "oauth_client": [
         {
-          "client_id": "11318451630-15tbjmoo17pdch5h93mo3mefv0bjmt29.apps.googleusercontent.com",
+          "client_id": "115119602969-5sv8llsns5j04i38j0iin7mtdu2b9eu0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.google.firebase.quickstart.auth",
-            "certificate_hash": "50926d765ef8e8eff46016f16cbc669f51249898"
+            "package_name": "com.life.event.www.eventlife",
+            "certificate_hash": "6fb7881b989187b139684e34230efbf6b2d36341"
           }
         },
         {
-          "client_id": "11318451630-g0olccha43o6311dui7p2oj88mss88kd.apps.googleusercontent.com",
+          "client_id": "115119602969-07o2hb8u4pvh5b50in0qfg5dsi5mcc8a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxF3u2oM0NNl9Fehy2gzPf051NgF6XAD8"
+          "current_key": "AIzaSyCNntDdHc7KgpdGCLTNldXxWSHBj95Ti1E"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "11318451630-g0olccha43o6311dui7p2oj88mss88kd.apps.googleusercontent.com",
+              "client_id": "115119602969-07o2hb8u4pvh5b50in0qfg5dsi5mcc8a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
